@@ -139,14 +139,14 @@ public class posttes3 extends javax.swing.JFrame {
 
         jPanel3.setBackground(new java.awt.Color(255, 51, 51));
 
-        jButton1.setText("profil");
+        jButton1.setText("pembayaran");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton1ActionPerformed(evt);
             }
         });
 
-        jButton2.setText("visi dan misi");
+        jButton2.setText("pengaduan");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
@@ -199,7 +199,7 @@ public class posttes3 extends javax.swing.JFrame {
         jPanel4.setBackground(new java.awt.Color(255, 0, 255));
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 3, 48)); // NOI18N
-        jLabel1.setText(" Dony sport stasion");
+        jLabel1.setText(" ");
 
         javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
         jPanel4.setLayout(jPanel4Layout);
